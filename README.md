@@ -25,8 +25,6 @@ To find answers to the first question, we can take a look at the wage/potential 
 
 On average, clubs spend €140 on wage for every potential of their players. So for a common player with 50 potential, his club will pay €7000 every year.
 
-
-
 # Context
 
 Football analytics
